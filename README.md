@@ -4,7 +4,7 @@ JaccardSimilarity is a collaborative filtering logic package.
 You can get the similarity index.
 
 ## Example
-```
+```go
 package main
 
 import (
